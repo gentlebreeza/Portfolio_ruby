@@ -1,3 +1,4 @@
+require ''
 
 module Portfolio
 	class ApplicationController < ActionController::Base
